@@ -1,0 +1,82 @@
+body.home {
+    background-image: url("../images/campus.jpg");
+}
+
+body.me {
+    background-image: url("../images/sports.jpg");
+    
+}
+
+h1 {
+    font-style: italic;
+}
+
+p {
+    color: darkgoldenrod;
+}
+
+.rez {
+    background-color: rgba(184, 135, 11, 0.767);
+}
+
+.section {
+    font-size: 18pt;
+    color: rgb(240, 228, 198);
+
+    text-decoration: underline;
+}
+
+.org {
+    font-size: 14pt;
+    text-decoration: none;
+    color: rgb(240, 228, 198);
+    font-weight: 900;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.point {
+    font-size: 12pt;
+    text-decoration: none;
+    color: rgb(240, 228, 198);
+    text-indent: 1.5rem;
+    list-style-type: square;
+
+}
+
+
+
+.res1 {
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+.res2 {
+    margin-top: 1rem;
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+
+
+.vidlink {
+    font-weight: 900;
+    
+}
+
+a:visited {
+    color: darkgoldenrod;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(92, 52, 0);
+    font-size: 14pt;
+}
+
+.foot {
+    margin-bottom: auto;
+}
